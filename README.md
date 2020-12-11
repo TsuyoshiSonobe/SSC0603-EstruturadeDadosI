@@ -1,2 +1,2 @@
 # SSC0603-EstruturadeDadosI
-Códigos da disciplina de Estrutura de Dados 1
+Trabalhos desenvolvidos na disciplina de Estrutura de Dados 1 (2° Semestre de 2020)
